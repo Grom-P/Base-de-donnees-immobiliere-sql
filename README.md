@@ -1,4 +1,4 @@
-# Créez et utilisez une base de données immobilière avec SQL
+# Creez et utilisez une base de donnees immobiliere avec SQL
 
 Mettre à jour un catalogue de données
 ❒ Choisir au moins les données suivantes à répertorier dans le dictionnaire : 
